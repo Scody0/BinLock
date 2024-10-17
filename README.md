@@ -36,7 +36,7 @@ How It Works:
 - The resulting encrypted or decrypted data is saved to the specified output file.
 
 License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Scody0/BinLock/blob/main/LICENSE.md) file for details.
 
 -------------------------
 # BinLock - Шифрование/дешифрование файлов
@@ -77,4 +77,4 @@ pip install tk
 - Результирующие зашифрованные или расшифрованные данные сохраняются в указанный выходной файл.
 
 Лицензия:
-Этот проект лицензирован на условиях лицензии MIT — см. файл LICENSE для получения дополнительной информации.
+Этот проект лицензирован на условиях лицензии MIT — см. файл [LICENSE](https://github.com/Scody0/BinLock/blob/main/LICENSE.md) для получения дополнительной информации.
